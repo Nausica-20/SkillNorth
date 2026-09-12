@@ -2,21 +2,49 @@
 
 **Find the skills. Build your future.**
 
-International learning and career discovery website built with Jekyll and intended for GitHub Pages.
+SkillNorth is an English-first, international learning and career discovery site built with Jekyll/GitHub Pages.
 
-## Project principles
+## Phase 3.2
 
-- Separate repository from Fluente-Mente.
-- English-first, international audience.
-- Data-driven course and content architecture.
-- Alison is an affiliate provider, not the brand.
-- SEO and Pinterest are primary acquisition channels.
+This package adds the definitive content templates for:
 
-## Local development
+- Skill pages
+- Career pages
+- Learning Path pages
+- Course guides
+- Guide pages
+- Skills, Careers, Courses, Learning Paths and Guides hubs
+
+The architecture is data-driven through `/data/*.yml` and uses reusable Liquid includes for cards, CTAs, breadcrumbs and navigation.
+
+## Run locally
+
+Install Ruby + Bundler, then:
 
 ```bash
 bundle install
 bundle exec jekyll serve
 ```
 
-Before deployment, replace `YOURDOMAIN.com` and `YOUR_GITHUB_USERNAME/skillnorth` in `_config.yml` and add verified course URLs/affiliate URLs in `data/courses.yml`.
+The current runtime used to assemble this package does not include a Jekyll toolchain, so the package should be built once in GitHub Actions or a local Ruby environment.
+
+## Important before publishing
+
+Populate `data/courses.yml` with final Alison `course_url` and approved affiliate URLs. Replace `YOURDOMAIN.com` and `YOUR_GITHUB_USERNAME` in `_config.yml`.
+
+## Phase 4
+
+Phase 4 adds the editorial content system for SkillNorth:
+
+- `data/editorial.yml` — content model, rules and standard sections
+- `data/article_registry.yml` — 30-day launch calendar and content IDs
+- `data/content_registry.yml` — unified site content inventory
+- `data/editorial_brief.yml` — production workflow and quality gate
+- `data/pinterest_content.yml` — launch Pinterest repurposing matrix
+- `_articles/` — first long-form SEO article set
+- new cluster pages for AI, generative AI, prompt engineering, Python, cybersecurity, digital marketing, SEO and related topics
+
+Course review pages include provider source URLs and a verification date. Before publication, add the final Alison affiliate URL and confirm the live course page once more.
+
+## Phase 6 — SEO Content Factory
+The repository now includes a repeatable editorial production system under `data/factory/`, `templates/content/`, `templates/pinterest/`, and `scripts/content_factory/`.

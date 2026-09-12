@@ -33,3 +33,5 @@ defaults:
       path: "pages"
     values:
       layout: default
+
+# Affiliate configuration lives in data/affiliate.yml.
