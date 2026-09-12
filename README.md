@@ -1,14 +1,25 @@
-# SkillNorth Design System
+# SkillNorth — Foundation Release
 
-This package is the definitive visual foundation for the new SkillNorth GitHub rebuild.
+The first clean GitHub Pages foundation for SkillNorth.
 
-## Files
+## Technology
 
-- `assets/css/style.css` — single production CSS file
-- `DESIGN_SYSTEM.md` — visual and UI specification
+- Static HTML
+- One CSS file
+- Vanilla JavaScript
+- No Jekyll
+- No Liquid
+- No Sass
+- No CSS framework
+- No plugins
 
-## Next step
+## First milestone
 
-Build the new repository from this system using static HTML first.
+GitHub Pages should deploy this repository as a static site with no build configuration.
 
-Do not reintroduce Jekyll/Liquid until there is a demonstrated need.
+## Structure
+
+- `index.html` — homepage
+- `assets/css/style.css` — definitive SkillNorth design system
+- `assets/js/main.js` — minimal mobile navigation
+- `assets/images/brand/skillnorth-logo.svg` — brand logo
