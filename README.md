@@ -20,3 +20,6 @@ Static HTML foundation for the SkillNorth Skills vertical.
 - GitHub Pages compatible
 
 The Skills vertical is the first content expansion after the green Foundation Release.
+
+## GitHub Pages
+All published links and asset paths use relative URLs so the site works both at a custom domain and at a GitHub Pages project URL.
