@@ -1,0 +1,25 @@
+careers:
+  - id: career-change
+    name: "Career Change"
+    url: "/careers/career-change/"
+    featured: true
+  - id: remote-work
+    name: "Remote Work"
+    url: "/careers/remote-work/"
+    featured: true
+  - id: freelancing
+    name: "Freelancing"
+    url: "/careers/freelancing/"
+    featured: true
+  - id: career-development
+    name: "Career Development"
+    url: "/careers/career-development/"
+    featured: true
+  - id: future-skills
+    name: "Future Skills"
+    url: "/careers/future-skills/"
+    featured: false
+  - id: job-skills
+    name: "Job Skills"
+    url: "/careers/job-skills/"
+    featured: false

@@ -1,0 +1,29 @@
+learning_paths:
+  - id: ai
+    name: "AI Professional"
+    url: "/learning-paths/ai/"
+    steps:
+      - "AI Fundamentals"
+      - "Generative AI"
+      - "Prompt Engineering"
+      - "AI Productivity"
+      - "AI for Business"
+  - id: digital-marketing
+    name: "Digital Marketer"
+    url: "/learning-paths/digital-marketing/"
+    steps:
+      - "Marketing Fundamentals"
+      - "Digital Marketing"
+      - "SEO"
+      - "Social Media"
+      - "Analytics"
+      - "AI Marketing"
+  - id: project-management
+    name: "Project Professional"
+    url: "/learning-paths/project-management/"
+    steps:
+      - "Project Management Basics"
+      - "Planning"
+      - "Risk Management"
+      - "Communication"
+      - "Leadership"

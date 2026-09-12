@@ -1,0 +1,12 @@
+.button { display:inline-flex; align-items:center; justify-content:center; gap:.5rem; min-height:48px; padding:.78rem 1.15rem; border-radius:$radius-pill; font-weight:800; border:1px solid transparent; transition:transform $transition, box-shadow $transition, background $transition, border-color $transition; cursor:pointer; white-space:nowrap; }
+.button:hover { transform:translateY(-2px); box-shadow:$shadow-sm; }
+.button--primary { background:$color-blue; color:$color-white; }
+.button--primary:hover { background:$color-blue-dark; }
+.button--secondary { background:$color-white; color:$color-navy; border-color:$color-border-strong; }
+.button--secondary:hover { background:$color-off-white; border-color:$color-navy; }
+.button--dark { background:$color-navy; color:$color-white; }
+.button--dark:hover { background:#1F2937; }
+.button--lime { background:$color-lime; color:$color-navy; }
+.button--lime:hover { background:#B5F04A; }
+.button--small { min-height:40px; padding:.58rem .9rem; font-size:.88rem; }
+.button--arrow::after { content:"→"; font-size:1.05em; }

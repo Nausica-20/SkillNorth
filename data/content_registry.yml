@@ -1,0 +1,19 @@
+content:
+  - id: PILLAR-001
+    type: pillar
+    title: "The Ultimate Guide to Learning & Career Skills in 2027"
+    url: "/guides/learning-career-skills-2027/"
+    status: "planned"
+
+  - id: HOME-001
+    type: home
+    title: "SkillNorth"
+    url: "/"
+    status: "planned"
+
+  - id: CL-001
+    type: cluster
+    title: "Best AI Courses"
+    url: "/best-ai-courses/"
+    pillar: PILLAR-001
+    status: "planned"

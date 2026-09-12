@@ -1,0 +1,45 @@
+courses:
+  - id: AL-001
+    provider: alison
+    title: "Prompt Engineering With Generative AI"
+    category: "AI"
+    skill: "ai"
+    level: "Intermediate"
+    duration: "3–4 hours"
+    certificate: true
+    slug: "prompt-engineering-generative-ai"
+    course_url: ""
+    affiliate_url: ""
+    status: "active"
+    priority: 1
+    featured: true
+
+  - id: AL-002
+    provider: alison
+    title: "Python for Beginners"
+    category: "Programming"
+    skill: "programming"
+    level: "Beginner"
+    duration: "4–5 hours"
+    certificate: true
+    slug: "python-for-beginners"
+    course_url: ""
+    affiliate_url: ""
+    status: "active"
+    priority: 2
+    featured: true
+
+  - id: AL-003
+    provider: alison
+    title: "Digital Marketing Overview"
+    category: "Marketing"
+    skill: "digital-marketing"
+    level: "Beginner"
+    duration: "Self-paced"
+    certificate: true
+    slug: "digital-marketing-overview"
+    course_url: ""
+    affiliate_url: ""
+    status: "active"
+    priority: 3
+    featured: true

@@ -1,0 +1,72 @@
+skills:
+  - id: ai
+    name: "AI"
+    short: "Understand AI, generative AI and the tools changing modern work."
+    url: "/skills/ai/"
+    group: "AI & Technology"
+    featured: true
+  - id: data
+    name: "Data"
+    short: "Build practical data literacy, analytics and data science foundations."
+    url: "/skills/data/"
+    group: "AI & Technology"
+    featured: true
+  - id: cybersecurity
+    name: "Cybersecurity"
+    short: "Learn the fundamentals of digital security, threats and protection."
+    url: "/skills/cybersecurity/"
+    group: "AI & Technology"
+    featured: true
+  - id: programming
+    name: "Programming"
+    short: "Start coding and build technical foundations with practical projects."
+    url: "/skills/programming/"
+    group: "AI & Technology"
+    featured: true
+  - id: digital-marketing
+    name: "Digital Marketing"
+    short: "Learn SEO, content, social media, analytics and modern marketing."
+    url: "/skills/digital-marketing/"
+    group: "Business & Professional"
+    featured: true
+  - id: business
+    name: "Business"
+    short: "Develop practical skills in management, entrepreneurship and business."
+    url: "/skills/business/"
+    group: "Business & Professional"
+    featured: true
+  - id: project-management
+    name: "Project Management"
+    url: "/skills/project-management/"
+    group: "Business & Professional"
+    featured: false
+  - id: leadership
+    name: "Leadership"
+    url: "/skills/leadership/"
+    group: "Business & Professional"
+    featured: false
+  - id: finance
+    name: "Finance"
+    url: "/skills/finance/"
+    group: "Business & Professional"
+    featured: false
+  - id: excel
+    name: "Excel"
+    url: "/skills/excel/"
+    group: "Business & Professional"
+    featured: false
+  - id: graphic-design
+    name: "Graphic Design"
+    url: "/skills/graphic-design/"
+    group: "Creative & Digital"
+    featured: false
+  - id: web-development
+    name: "Web Development"
+    url: "/skills/web-development/"
+    group: "Creative & Digital"
+    featured: false
+  - id: communication
+    name: "Communication"
+    url: "/skills/communication/"
+    group: "Professional Skills"
+    featured: false

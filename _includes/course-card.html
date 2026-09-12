@@ -1,0 +1,8 @@
+{% assign course = include.course %}
+<article class="course-card">
+  <div class="course-card__top"><span class="tag">{{ course.category }}</span><span>{{ course.level }}</span></div>
+  <h3>{{ course.title }}</h3>
+  <p class="course-card__meta">{{ course.duration }}{% if course.certificate %} · Certificate available{% endif %}</p>
+  <span class="course-card__provider">Offered by {{ course.provider | capitalize }}</span>
+  <a class="button button--small button--primary button--arrow" href="{{ '/courses/' | append: course.slug | append: '/' | relative_url }}">{{ site.data.site.cta.course }}</a>
+</article>

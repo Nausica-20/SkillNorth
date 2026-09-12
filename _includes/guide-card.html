@@ -1,0 +1,6 @@
+<a class="article-card" href="{{ include.url | relative_url }}">
+  {% if include.tag %}<span class="tag">{{ include.tag }}</span>{% endif %}
+  <h3>{{ include.title }}</h3>
+  <p>{{ include.description }}</p>
+  <span class="card-arrow">Read guide →</span>
+</a>

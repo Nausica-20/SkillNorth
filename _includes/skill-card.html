@@ -1,0 +1,7 @@
+{% assign skill = include.skill %}
+<a class="skill-card" href="{{ skill.url | relative_url }}">
+  <span class="skill-card__icon" aria-hidden="true">{{ include.icon | default: '✦' }}</span>
+  <h3>{{ skill.name }}</h3>
+  <p>{{ skill.short | default: 'Explore practical skills, beginner foundations and useful next steps.' }}</p>
+  <span class="card-arrow">Explore →</span>
+</a>

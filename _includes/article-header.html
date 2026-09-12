@@ -1,0 +1,6 @@
+<header class="article-header">
+  {% if page.category %}<p class="eyebrow">{{ page.category }}</p>{% endif %}
+  <h1>{{ page.title }}</h1>
+  {% if page.description %}<p class="article-header__lead">{{ page.description }}</p>{% endif %}
+  {% if page.last_updated %}<p class="article-meta">Updated {{ page.last_updated }}</p>{% endif %}
+</header>
