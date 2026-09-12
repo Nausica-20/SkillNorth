@@ -1,6 +1,0 @@
-providers:
-  - id: alison
-    name: "Alison"
-    affiliate: true
-    status: "active"
-    disclosure: "Some links to Alison may be affiliate links."
