@@ -1,25 +1,21 @@
-# SkillNorth — Skills Vertical v2
+# SkillNorth — Jekyll v1
 
-Static HTML foundation for the SkillNorth Skills vertical.
+A clean rebuild of SkillNorth using Jekyll, while preserving the approved homepage design.
 
-## Pages
+## Routing
+- `/`
 - `/skills/`
 - `/skills/ai/`
 - `/skills/data/`
 - `/skills/cybersecurity/`
 - `/skills/programming/`
 
-## Technical rules
-- Static HTML
-- One CSS file
-- Vanilla JavaScript
-- No Jekyll
-- No Liquid
-- No Sass
-- No build system
-- GitHub Pages compatible
+## Architecture
+- `_config.yml` controls site settings and `permalink: pretty`
+- `_layouts/default.html` provides the shared shell
+- `_includes/header.html` and `_includes/footer.html` provide reusable navigation
+- `assets/css/style.css` is the single stylesheet
+- `assets/js/main.js` is vanilla JavaScript
 
-The Skills vertical is the first content expansion after the green Foundation Release.
-
-## GitHub Pages
-All published links and asset paths use relative URLs so the site works both at a custom domain and at a GitHub Pages project URL.
+## Principle
+Build one vertical at a time and verify GitHub Pages before adding the next one.

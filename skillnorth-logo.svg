@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 150" role="img" aria-labelledby="title desc">
+<title>SkillNorth</title><desc>SkillNorth logo with geometric N and upward arrow.</desc>
+<g transform="translate(24,18)">
+  <path d="M18 100V18h30l58 62V18h30v82h-30L48 38v62z" fill="#101828"/>
+  <path d="M52 20h25l62 64v16h-30L52 40z" fill="#2563EB"/>
+  <path d="M150 82V42h-18l30-32 30 32h-18v40z" fill="#A3E635"/>
+</g>
+<text x="210" y="79" font-family="Arial, Helvetica, sans-serif" font-size="54" font-weight="800" letter-spacing="-2" fill="#101828">SKILL</text>
+<text x="382" y="79" font-family="Arial, Helvetica, sans-serif" font-size="54" font-weight="800" letter-spacing="-2" fill="#2563EB">NORTH</text>
+<text x="213" y="112" font-family="Arial, Helvetica, sans-serif" font-size="15" letter-spacing="2.2" fill="#667085">FIND THE SKILLS. BUILD YOUR FUTURE.</text>
+</svg>
