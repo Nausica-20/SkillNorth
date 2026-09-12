@@ -1,9 +1,0 @@
-{% assign path = include.path %}
-<article class="path-card">
-  <div class="path-card__meta">Learning Path</div>
-  <h3>{{ path.name }}</h3>
-  <ol>
-    {% for step in path.steps %}<li>{{ step }}</li>{% endfor %}
-  </ol>
-  <a class="text-link" href="{{ path.url | relative_url }}">Explore path →</a>
-</article>
