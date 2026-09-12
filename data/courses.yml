@@ -1,0 +1,1128 @@
+# ============================================================
+# SkillNorth Course Database
+# ============================================================
+#
+# Purpose:
+# Central database of recommended learning courses.
+#
+# Architecture:
+# Skill → Career → Learning Path → Course → Affiliate CTA
+#
+# Provider:
+# Alison
+#
+# affiliate_url:
+# Replace "..." with the personal affiliate URL generated
+# by the Alison Affiliate Programme.
+#
+# ============================================================
+
+courses:
+
+  # ==========================================================
+  # AI & AUTOMATION
+  # ==========================================================
+
+  - id: SN-COURSE-001
+    provider: alison
+    title: "Artificial Intelligence for Beginners"
+    slug: artificial-intelligence-for-beginners
+
+    category: ai
+    subcategory: ai-fundamentals
+
+    skill_ids:
+      - ai-fundamentals
+
+    career_ids:
+      - ai-automation
+
+    learning_path_ids:
+      - ai-automation
+
+    level: beginner
+    duration: "1.5-3 hours"
+
+    format:
+      - online
+      - self-paced
+
+    certificate:
+      available: true
+      type: "Alison Certificate"
+
+    language:
+      - en
+
+    status: active
+
+    source_url: "https://alison.com/course/artificial-intelligence-for-beginners"
+
+    affiliate:
+      enabled: true
+      affiliate_url: "https://alison.com/course/artificial-intelligence-for-beginners?utm_source=chatgpt.com&utm_source=alison_user&utm_medium=affiliate&utm_campaign=54834349"
+      cta: "Explore this course"
+      disclosure_required: true
+
+    featured: true
+
+    short_description: >
+      Learn the fundamentals of artificial intelligence, machine learning,
+      AI applications and the future impact of AI.
+
+    best_for:
+      - beginners
+      - career explorers
+      - professionals building AI awareness
+
+    tags:
+      - artificial intelligence
+      - machine learning
+      - AI fundamentals
+      - technology
+
+
+  - id: SN-COURSE-002
+    provider: alison
+    title: "AI for Beginners"
+    slug: ai-for-beginners
+
+    category: ai
+    subcategory: ai-fundamentals
+
+    skill_ids:
+      - ai-fundamentals
+
+    career_ids:
+      - ai-automation
+
+    learning_path_ids:
+      - ai-automation
+
+    level: beginner
+    duration: "5-6 hours"
+
+    format:
+      - online
+      - self-paced
+
+    certificate:
+      available: true
+      type: "Alison Certificate"
+
+    language:
+      - en
+
+    status: active
+
+    source_url: "https://alison.com/course/ai-for-beginners"
+
+    affiliate:
+      enabled: true
+      affiliate_url: "https://alison.com/course/ai-for-beginners?utm_source=chatgpt.com&utm_source=alison_user&utm_medium=affiliate&utm_campaign=54834349"
+      cta: "Explore this course"
+      disclosure_required: true
+
+    featured: true
+
+    short_description: >
+      Explore core AI concepts, machine learning, deep learning,
+      generative AI and large language models.
+
+    best_for:
+      - beginners
+      - career explorers
+      - AI learners
+
+    tags:
+      - AI
+      - machine learning
+      - deep learning
+      - generative AI
+      - LLMs
+
+
+  - id: SN-COURSE-003
+    provider: alison
+    title: "Introduction to Artificial Intelligence (AI)"
+    slug: introduction-to-artificial-intelligence
+
+    category: ai
+    subcategory: ai-fundamentals
+
+    skill_ids:
+      - ai-fundamentals
+      - machine-learning
+
+    career_ids:
+      - ai-automation
+
+    learning_path_ids:
+      - ai-automation
+
+    level: beginner
+    duration: "4-5 hours"
+
+    format:
+      - online
+      - self-paced
+
+    certificate:
+      available: true
+      type: "Alison Certificate"
+
+    language:
+      - en
+
+    status: active
+
+    source_url: "https://alison.com/course/introduction-to-artificial-intelligence-ai"
+
+    affiliate:
+      enabled: true
+      affiliate_url: "https://alison.com/course/introduction-to-artificial-intelligence-ai?utm_source=chatgpt.com&utm_source=alison_user&utm_medium=affiliate&utm_campaign=54834349"
+      cta: "Explore this course"
+      disclosure_required: true
+
+    featured: false
+
+    short_description: >
+      Explore artificial intelligence, machine learning, deep learning,
+      natural language processing and AI ethics.
+
+    best_for:
+      - beginners
+      - technology learners
+      - AI career explorers
+
+    tags:
+      - artificial intelligence
+      - machine learning
+      - deep learning
+      - NLP
+      - AI ethics
+
+
+  # ==========================================================
+  # DATA ANALYTICS
+  # ==========================================================
+
+  - id: SN-COURSE-004
+    provider: alison
+    title: "Basics of Data Analysis with Excel"
+    slug: basics-of-data-analysis-with-excel
+
+    category: data
+    subcategory: excel
+
+    skill_ids:
+      - data-analysis
+      - excel
+
+    career_ids:
+      - data-analytics
+
+    learning_path_ids:
+      - data-analyst
+
+    level: beginner
+    duration: "3-4 hours"
+
+    format:
+      - online
+      - self-paced
+
+    certificate:
+      available: true
+      type: "Alison Certificate"
+
+    language:
+      - en
+      - es
+
+    status: active
+
+    source_url: "https://alison.com/course/basics-of-data-analysis-with-excel"
+
+    affiliate:
+      enabled: true
+      affiliate_url: "https://alison.com/course/basics-of-data-analysis-with-excel?utm_source=chatgpt.com&utm_source=alison_user&utm_medium=affiliate&utm_campaign=54834349"
+      cta: "Explore this course"
+      disclosure_required: true
+
+    featured: true
+
+    short_description: >
+      Learn fundamental Excel concepts for handling, manipulating
+      and analyzing data.
+
+    best_for:
+      - data beginners
+      - Excel learners
+      - aspiring data analysts
+
+    tags:
+      - Excel
+      - data analysis
+      - spreadsheets
+      - data
+
+
+  - id: SN-COURSE-005
+    provider: alison
+    title: "Mastering Data Analysis Using Microsoft Excel"
+    slug: mastering-data-analysis-using-microsoft-excel
+
+    category: data
+    subcategory: excel
+
+    skill_ids:
+      - data-analysis
+      - excel
+
+    career_ids:
+      - data-analytics
+
+    learning_path_ids:
+      - data-analyst
+
+    level: intermediate
+    duration: "1.5-3 hours"
+
+    format:
+      - online
+      - self-paced
+
+    certificate:
+      available: true
+      type: "Alison Certificate"
+
+    language:
+      - en
+      - es
+
+    status: active
+
+    source_url: "https://alison.com/course/mastering-data-analysis-using-microsoft-excel"
+
+    affiliate:
+      enabled: true
+      affiliate_url: "https://alison.com/course/mastering-data-analysis-using-microsoft-excel?utm_source=chatgpt.com&utm_source=alison_user&utm_medium=affiliate&utm_campaign=54834349"
+      cta: "Explore this course"
+      disclosure_required: true
+
+    featured: false
+
+    short_description: >
+      Develop practical Excel skills for data analysis, formulas,
+      functions and spreadsheet-based data work.
+
+    best_for:
+      - Excel learners
+      - aspiring data analysts
+      - business professionals
+
+    tags:
+      - Excel
+      - data analysis
+      - formulas
+      - spreadsheets
+
+
+  - id: SN-COURSE-006
+    provider: alison
+    title: "Foundations of Microsoft Excel Dashboards, Data Analysis and Visualization"
+    slug: excel-dashboards-data-analysis-visualization
+
+    category: data
+    subcategory: data-visualization
+
+    skill_ids:
+      - data-analysis
+      - excel
+      - data-visualization
+
+    career_ids:
+      - data-analytics
+
+    learning_path_ids:
+      - data-analyst
+
+    level: advanced
+    duration: "6-10 hours"
+
+    format:
+      - online
+      - self-paced
+
+    certificate:
+      available: true
+      type: "Alison Certificate"
+
+    language:
+      - en
+
+    status: active
+
+    source_url: "https://alison.com/course/foundations-of-microsoft-excel-dashboards-data-analysis-and-visualization"
+
+    affiliate:
+      enabled: true
+      affiliate_url: "https://alison.com/course/foundations-of-microsoft-excel-dashboards-data-analysis-and-visualization?utm_source=chatgpt.com&utm_source=alison_user&utm_medium=affiliate&utm_campaign=54834349"
+      cta: "Explore this course"
+      disclosure_required: true
+
+    featured: true
+
+    short_description: >
+      Learn how to use Excel for advanced data analysis,
+      visualization and interactive dashboards.
+
+    best_for:
+      - aspiring data analysts
+      - Excel users
+      - dashboard beginners
+
+    tags:
+      - Excel
+      - dashboards
+      - visualization
+      - data analysis
+
+
+  - id: SN-COURSE-007
+    provider: alison
+    title: "SQL for Beginners"
+    slug: sql-for-beginners
+
+    category: data
+    subcategory: sql
+
+    skill_ids:
+      - sql
+      - data-analysis
+
+    career_ids:
+      - data-analytics
+
+    learning_path_ids:
+      - data-analyst
+
+    level: beginner
+    duration: "3-4 hours"
+
+    format:
+      - online
+      - self-paced
+
+    certificate:
+      available: true
+      type: "Alison Certificate"
+
+    language:
+      - en
+      - es
+
+    status: active
+
+    source_url: "https://alison.com/course/sql-for-beginners"
+
+    affiliate:
+      enabled: true
+      affiliate_url: "https://alison.com/course/sql-for-beginners?utm_source=chatgpt.com&utm_source=alison_user&utm_medium=affiliate&utm_campaign=54834349"
+      cta: "Explore this course"
+      disclosure_required: true
+
+    featured: true
+
+    short_description: >
+      Learn the fundamentals of SQL, database structures and
+      essential SQL queries.
+
+    best_for:
+      - SQL beginners
+      - aspiring data analysts
+      - database beginners
+
+    tags:
+      - SQL
+      - databases
+      - data analysis
+
+
+  - id: SN-COURSE-008
+    provider: alison
+    title: "SQL Server for Data Analysis"
+    slug: sql-server-for-data-analysis
+
+    category: data
+    subcategory: sql
+
+    skill_ids:
+      - sql
+      - data-analysis
+
+    career_ids:
+      - data-analytics
+
+    learning_path_ids:
+      - data-analyst
+
+    level: intermediate
+    duration: "4-5 hours"
+
+    format:
+      - online
+      - self-paced
+
+    certificate:
+      available: true
+      type: "Alison Certificate"
+
+    language:
+      - en
+      - es
+
+    status: active
+
+    source_url: "https://alison.com/course/sql-server-for-data-analysis"
+
+    affiliate:
+      enabled: true
+      affiliate_url: "https://alison.com/course/sql-server-for-data-analysis?utm_source=chatgpt.com&utm_source=alison_user&utm_medium=affiliate&utm_campaign=54834349"
+      cta: "Explore this course"
+      disclosure_required: true
+
+    featured: false
+
+    short_description: >
+      Develop SQL Server skills for querying, analyzing and
+      working with structured data.
+
+    best_for:
+      - SQL learners
+      - aspiring data analysts
+      - database learners
+
+    tags:
+      - SQL Server
+      - SQL
+      - databases
+      - data analysis
+
+
+  - id: SN-COURSE-009
+    provider: alison
+    title: "Power Query and Power Pivot in Microsoft Excel"
+    slug: power-query-power-pivot-excel
+
+    category: data
+    subcategory: data-modeling
+
+    skill_ids:
+      - excel
+      - data-analysis
+      - data-modeling
+
+    career_ids:
+      - data-analytics
+
+    learning_path_ids:
+      - data-analyst
+
+    level: beginner
+    duration: "3-4 hours"
+
+    format:
+      - online
+      - self-paced
+
+    certificate:
+      available: true
+      type: "Alison Certificate"
+
+    language:
+      - en
+
+    status: active
+
+    source_url: "https://alison.com/course/power-query-and-power-pivot-in-microsoft-excel"
+
+    affiliate:
+      enabled: true
+      affiliate_url: "https://alison.com/course/power-query-and-power-pivot-in-microsoft-excel?utm_source=chatgpt.com&utm_source=alison_user&utm_medium=affiliate&utm_campaign=54834349"
+      cta: "Explore this course"
+      disclosure_required: true
+
+    featured: false
+
+    short_description: >
+      Learn how Power Query and Power Pivot can support data
+      modeling and analysis in Microsoft Excel.
+
+    best_for:
+      - Excel users
+      - data analysts
+      - business analysts
+
+    tags:
+      - Excel
+      - Power Query
+      - Power Pivot
+      - data modeling
+
+
+  # ==========================================================
+  # CYBERSECURITY
+  # ==========================================================
+
+  - id: SN-COURSE-010
+    provider: alison
+    title: "Cyber security: Understand Threats and Prevent Attacks"
+    slug: cyber-security-understand-threats-prevent-attacks
+
+    category: cybersecurity
+    subcategory: fundamentals
+
+    skill_ids:
+      - cybersecurity-fundamentals
+      - security-awareness
+
+    career_ids:
+      - cybersecurity
+
+    learning_path_ids:
+      - cybersecurity
+
+    level: beginner
+    duration: "1.5-3 hours"
+
+    format:
+      - online
+      - self-paced
+
+    certificate:
+      available: true
+      type: "Alison Certificate"
+
+    language:
+      - en
+      - es
+
+    status: active
+
+    source_url: "https://alison.com/course/cyber-security-understand-threats-and-prevent-attacks"
+
+    affiliate:
+      enabled: true
+      affiliate_url: "https://alison.com/course/cyber-security-understand-threats-and-prevent-attacks?utm_source=chatgpt.com&utm_source=alison_user&utm_medium=affiliate&utm_campaign=54834349"
+      cta: "Explore this course"
+      disclosure_required: true
+
+    featured: true
+
+    short_description: >
+      Learn cybersecurity fundamentals, common threats, malware,
+      attacks and practical prevention techniques.
+
+    best_for:
+      - cybersecurity beginners
+      - IT beginners
+      - security awareness learners
+
+    tags:
+      - cybersecurity
+      - cyber attacks
+      - malware
+      - security
+
+
+  - id: SN-COURSE-011
+    provider: alison
+    title: "A Brief Guide to Cyber Security"
+    slug: brief-guide-to-cyber-security
+
+    category: cybersecurity
+    subcategory: fundamentals
+
+    skill_ids:
+      - cybersecurity-fundamentals
+      - security-awareness
+
+    career_ids:
+      - cybersecurity
+
+    learning_path_ids:
+      - cybersecurity
+
+    level: beginner
+    duration: "3-4 hours"
+
+    format:
+      - online
+      - self-paced
+
+    certificate:
+      available: true
+      type: "Alison Certificate"
+
+    language:
+      - en
+      - es
+
+    status: active
+
+    source_url: "https://alison.com/course/a-brief-guide-to-cyber-security"
+
+    affiliate:
+      enabled: true
+      affiliate_url: "https://alison.com/course/a-brief-guide-to-cyber-security?utm_source=chatgpt.com&utm_source=alison_user&utm_medium=affiliate&utm_campaign=54834349"
+      cta: "Explore this course"
+      disclosure_required: true
+
+    featured: false
+
+    short_description: >
+      Learn how to prevent, detect and respond to cyber attacks
+      and protect information.
+
+    best_for:
+      - beginners
+      - security awareness learners
+      - career explorers
+
+    tags:
+      - cybersecurity
+      - cyber attacks
+      - security awareness
+
+
+  - id: SN-COURSE-012
+    provider: alison
+    title: "Cybersecurity for Non-IT Professionals"
+    slug: cybersecurity-for-non-it-professionals
+
+    category: cybersecurity
+    subcategory: security-awareness
+
+    skill_ids:
+      - security-awareness
+      - cybersecurity-fundamentals
+
+    career_ids:
+      - cybersecurity
+
+    learning_path_ids:
+      - cybersecurity
+
+    level: intermediate
+    duration: "5-6 hours"
+
+    format:
+      - online
+      - self-paced
+
+    certificate:
+      available: true
+      type: "Alison Certificate"
+
+    language:
+      - en
+
+    status: active
+
+    source_url: "https://alison.com/course/cybersecurity-for-non-it-professionals"
+
+    affiliate:
+      enabled: true
+      affiliate_url: "https://alison.com/course/cybersecurity-for-non-it-professionals?utm_source=chatgpt.com&utm_source=alison_user&utm_medium=affiliate&utm_campaign=54834349"
+      cta: "Explore this course"
+      disclosure_required: true
+
+    featured: false
+
+    short_description: >
+      Learn practical cybersecurity awareness, social engineering
+      risks, authentication and security practices.
+
+    best_for:
+      - professionals
+      - remote workers
+      - cybersecurity beginners
+
+    tags:
+      - cybersecurity
+      - social engineering
+      - MFA
+      - security awareness
+
+
+  - id: SN-COURSE-013
+    provider: alison
+    title: "Diploma in Cyber Security"
+    slug: diploma-in-cyber-security
+
+    category: cybersecurity
+    subcategory: advanced-foundations
+
+    skill_ids:
+      - cybersecurity-fundamentals
+      - network-security
+      - ethical-hacking
+
+    career_ids:
+      - cybersecurity
+
+    learning_path_ids:
+      - cybersecurity
+
+    level: beginner
+    duration: "6-10 hours"
+
+    format:
+      - online
+      - self-paced
+
+    certificate:
+      available: true
+      type: "Alison Diploma"
+
+    language:
+      - en
+      - es
+
+    status: active
+
+    source_url: "https://alison.com/course/diploma-in-cyber-security"
+
+    affiliate:
+      enabled: true
+      affiliate_url: "https://alison.com/course/diploma-in-cyber-security?utm_source=chatgpt.com&utm_source=alison_user&utm_medium=affiliate&utm_campaign=54834349"
+      cta: "Explore this course"
+      disclosure_required: true
+
+    featured: true
+
+    short_description: >
+      Build a broad cybersecurity foundation covering threats,
+      network security, cloud security, ethical hacking and more.
+
+    best_for:
+      - cybersecurity beginners
+      - career changers
+      - aspiring security professionals
+
+    tags:
+      - cybersecurity
+      - network security
+      - ethical hacking
+      - cloud security
+
+
+  # ==========================================================
+  # SOFTWARE DEVELOPMENT
+  # ==========================================================
+
+  - id: SN-COURSE-014
+    provider: alison
+    title: "Programming Using Python"
+    slug: programming-using-python
+
+    category: programming
+    subcategory: python
+
+    skill_ids:
+      - programming-fundamentals
+      - python
+
+    career_ids:
+      - software-development
+
+    learning_path_ids:
+      - software-development
+
+    level: beginner
+    duration: "3-4 hours"
+
+    format:
+      - online
+      - self-paced
+
+    certificate:
+      available: true
+      type: "Alison Certificate"
+
+    language:
+      - en
+
+    status: active
+
+    source_url: "https://alison.com/course/programming-using-python"
+
+    affiliate:
+      enabled: true
+      affiliate_url: "https://alison.com/course/programming-using-python?utm_source=chatgpt.com&utm_source=alison_user&utm_medium=affiliate&utm_campaign=54834349"
+      cta: "Explore this course"
+      disclosure_required: true
+
+    featured: true
+
+    short_description: >
+      Learn Python programming fundamentals including variables,
+      conditions, functions, modules and classes.
+
+    best_for:
+      - programming beginners
+      - aspiring developers
+      - automation beginners
+
+    tags:
+      - Python
+      - programming
+      - coding
+      - software development
+
+
+  - id: SN-COURSE-015
+    provider: alison
+    title: "Web Design with HTML"
+    slug: web-design-with-html
+
+    category: programming
+    subcategory: web-development
+
+    skill_ids:
+      - programming-fundamentals
+      - web-development
+      - html
+
+    career_ids:
+      - software-development
+
+    learning_path_ids:
+      - software-development
+
+    level: beginner
+    duration: "1.5-3 hours"
+
+    format:
+      - online
+      - self-paced
+
+    certificate:
+      available: true
+      type: "Alison Certificate"
+
+    language:
+      - en
+
+    status: active
+
+    source_url: "https://alison.com/course/web-design-with-html"
+
+    affiliate:
+      enabled: true
+      affiliate_url: "https://alison.com/course/web-design-with-html?utm_source=chatgpt.com&utm_source=alison_user&utm_medium=affiliate&utm_campaign=54834349"
+      cta: "Explore this course"
+      disclosure_required: true
+
+    featured: true
+
+    short_description: >
+      Learn the foundations of HTML and how it is used to structure
+      modern websites.
+
+    best_for:
+      - web development beginners
+      - programming beginners
+      - aspiring web designers
+
+    tags:
+      - HTML
+      - web development
+      - web design
+      - coding
+
+
+  - id: SN-COURSE-016
+    provider: alison
+    title: "JavaScript Application Programming"
+    slug: javascript-application-programming
+
+    category: programming
+    subcategory: javascript
+
+    skill_ids:
+      - javascript
+      - web-development
+
+    career_ids:
+      - software-development
+
+    learning_path_ids:
+      - software-development
+
+    level: beginner
+    duration: "1.5-3 hours"
+
+    format:
+      - online
+      - self-paced
+
+    certificate:
+      available: true
+      type: "Alison Certificate"
+
+    language:
+      - en
+
+    status: active
+
+    source_url: "https://alison.com/course/javascript-application-programming-revised"
+
+    affiliate:
+      enabled: true
+      affiliate_url: "https://alison.com/course/javascript-application-programming-revised?utm_source=chatgpt.com&utm_source=alison_user&utm_medium=affiliate&utm_campaign=54834349"
+      cta: "Explore this course"
+      disclosure_required: true
+
+    featured: false
+
+    short_description: >
+      Learn JavaScript programming concepts and how JavaScript
+      can add interactivity to web pages.
+
+    best_for:
+      - web development beginners
+      - JavaScript beginners
+      - aspiring developers
+
+    tags:
+      - JavaScript
+      - web development
+      - programming
+      - DOM
+
+
+  - id: SN-COURSE-017
+    provider: alison
+    title: "Diploma in HTML5, CSS3 and JavaScript"
+    slug: diploma-html5-css3-javascript
+
+    category: programming
+    subcategory: web-development
+
+    skill_ids:
+      - html
+      - css
+      - javascript
+      - web-development
+
+    career_ids:
+      - software-development
+
+    learning_path_ids:
+      - software-development
+
+    level: beginner
+    duration: "10-15 hours"
+
+    format:
+      - online
+      - self-paced
+
+    certificate:
+      available: true
+      type: "Alison Diploma"
+
+    language:
+      - en
+      - es
+
+    status: active
+
+    source_url: "https://alison.com/course/diploma-in-html5-css3-and-javascript-revised"
+
+    affiliate:
+      enabled: true
+      affiliate_url: "https://alison.com/course/diploma-in-html5-css3-and-javascript-revised?utm_source=chatgpt.com&utm_source=alison_user&utm_medium=affiliate&utm_campaign=54834349"
+      cta: "Explore this course"
+      disclosure_required: true
+
+    featured: true
+
+    short_description: >
+      Build a foundation in HTML5, CSS3 and JavaScript for
+      creating interactive web pages.
+
+    best_for:
+      - web development beginners
+      - aspiring front-end developers
+      - programming learners
+
+    tags:
+      - HTML5
+      - CSS3
+      - JavaScript
+      - web development
+
+
+  - id: SN-COURSE-018
+    provider: alison
+    title: "JavaScript and CSS - Fully Responsive Mobile Ready Website"
+    slug: javascript-css-responsive-mobile-website
+
+    category: programming
+    subcategory: web-development
+
+    skill_ids:
+      - css
+      - javascript
+      - web-development
+
+    career_ids:
+      - software-development
+
+    learning_path_ids:
+      - software-development
+
+    level: beginner
+    duration: "1.5-3 hours"
+
+    format:
+      - online
+      - self-paced
+
+    certificate:
+      available: true
+      type: "Alison Certificate"
+
+    language:
+      - en
+
+    status: active
+
+    source_url: "https://alison.com/course/javascript-and-css-fully-responsive-mobile-ready-website"
+
+    affiliate:
+      enabled: true
+      affiliate_url: "https://alison.com/course/javascript-and-css-fully-responsive-mobile-ready-website?utm_source=chatgpt.com&utm_source=alison_user&utm_medium=affiliate&utm_campaign=54834349"
+      cta: "Explore this course"
+      disclosure_required: true
+
+    featured: false
+
+    short_description: >
+      Practice building a responsive mobile-ready website using
+      CSS and JavaScript.
+
+    best_for:
+      - web development beginners
+      - front-end learners
+      - project-based learners
+
+    tags:
+      - CSS
+      - JavaScript
+      - responsive design
+      - web development
