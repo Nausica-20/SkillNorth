@@ -1,25 +1,22 @@
-# SkillNorth — Foundation Release
+# SkillNorth — Skills Vertical v2
 
-The first clean GitHub Pages foundation for SkillNorth.
+Static HTML foundation for the SkillNorth Skills vertical.
 
-## Technology
+## Pages
+- `/skills/`
+- `/skills/ai/`
+- `/skills/data/`
+- `/skills/cybersecurity/`
+- `/skills/programming/`
 
+## Technical rules
 - Static HTML
 - One CSS file
 - Vanilla JavaScript
 - No Jekyll
 - No Liquid
 - No Sass
-- No CSS framework
-- No plugins
+- No build system
+- GitHub Pages compatible
 
-## First milestone
-
-GitHub Pages should deploy this repository as a static site with no build configuration.
-
-## Structure
-
-- `index.html` — homepage
-- `assets/css/style.css` — definitive SkillNorth design system
-- `assets/js/main.js` — minimal mobile navigation
-- `assets/images/brand/skillnorth-logo.svg` — brand logo
+The Skills vertical is the first content expansion after the green Foundation Release.
