@@ -1126,3 +1126,757 @@ courses:
       - JavaScript
       - responsive design
       - web development
+
+
+  # ==========================================================
+  # AI & AUTOMATION — ADDITIONAL COURSES
+  # ==========================================================
+
+  - id: SN-COURSE-019
+    provider: alison
+    title: "Generative AI and Large Language Models for Beginners"
+    slug: generative-ai-and-large-language-models-for-beginners
+
+    category: ai
+    subcategory: generative-ai
+
+    skill_ids:
+      - ai-fundamentals
+      - generative-ai
+
+    career_ids:
+      - ai-automation
+
+    learning_path_ids:
+      - ai-automation
+
+    level: beginner
+    duration: "1.5-3 hours"
+
+    format:
+      - online
+      - self-paced
+
+    certificate:
+      available: true
+      type: "Alison Certificate"
+
+    language:
+      - en
+      - es
+
+    status: active
+
+    source_url: "https://alison.com/course/generative-ai-and-large-language-models-for-beginners"
+
+    affiliate:
+      enabled: true
+      affiliate_url: "https://alison.com/course/generative-ai-and-large-language-models-for-beginners?utm_source=chatgpt.com&utm_source=alison_user&utm_medium=affiliate&utm_campaign=54834349"
+      cta: "Explore this course"
+      disclosure_required: true
+
+    featured: true
+
+    short_description: >
+      Explore the foundations of generative AI and large language
+      models and understand how systems such as ChatGPT and Gemini work.
+
+    best_for:
+      - AI beginners
+      - technology learners
+      - career explorers
+
+    tags:
+      - generative AI
+      - LLMs
+      - ChatGPT
+      - Gemini
+      - artificial intelligence
+
+
+  - id: SN-COURSE-020
+    provider: alison
+    title: "Master Generative AI (Artificial Intelligence)"
+    slug: master-generative-ai
+
+    category: ai
+    subcategory: generative-ai
+
+    skill_ids:
+      - generative-ai
+      - ai-fundamentals
+
+    career_ids:
+      - ai-automation
+
+    learning_path_ids:
+      - ai-automation
+
+    level: beginner
+    duration: "4-5 hours"
+
+    format:
+      - online
+      - self-paced
+
+    certificate:
+      available: true
+      type: "Alison Certificate"
+
+    language:
+      - en
+      - es
+
+    status: active
+
+    source_url: "https://alison.com/course/master-course-in-generative-ai-artificial-intelligence"
+
+    affiliate:
+      enabled: true
+      affiliate_url: "https://alison.com/course/master-course-in-generative-ai-artificial-intelligence?utm_source=chatgpt.com&utm_source=alison_user&utm_medium=affiliate&utm_campaign=54834349"
+      cta: "Explore this course"
+      disclosure_required: true
+
+    featured: true
+
+    short_description: >
+      Explore generative AI models, applications and practical
+      approaches to solving problems with generative AI.
+
+    best_for:
+      - AI beginners
+      - digital professionals
+      - generative AI learners
+
+    tags:
+      - generative AI
+      - AI models
+      - AI applications
+      - machine learning
+
+
+  - id: SN-COURSE-021
+    provider: alison
+    title: "Prompt Engineering With Generative AI"
+    slug: prompt-engineering-with-generative-ai
+
+    category: ai
+    subcategory: prompting
+
+    skill_ids:
+      - prompting
+      - generative-ai
+
+    career_ids:
+      - ai-automation
+
+    learning_path_ids:
+      - ai-automation
+
+    level: intermediate
+    duration: "3-4 hours"
+
+    format:
+      - online
+      - self-paced
+
+    certificate:
+      available: true
+      type: "Alison Certificate"
+
+    language:
+      - en
+
+    status: active
+
+    source_url: "https://alison.com/course/prompt-engineering-with-generative-ai"
+
+    affiliate:
+      enabled: true
+      affiliate_url: "https://alison.com/course/prompt-engineering-with-generative-ai?utm_source=chatgpt.com&utm_source=alison_user&utm_medium=affiliate&utm_campaign=54834349"
+      cta: "Explore this course"
+      disclosure_required: true
+
+    featured: true
+
+    short_description: >
+      Learn how to craft, refine and test prompts for generative
+      AI applications.
+
+    best_for:
+      - AI users
+      - professionals
+      - content creators
+      - automation learners
+
+    tags:
+      - prompt engineering
+      - prompting
+      - generative AI
+      - LLMs
+
+
+  - id: SN-COURSE-022
+    provider: alison
+    title: "Generative AI for Businesses"
+    slug: generative-ai-for-businesses
+
+    category: ai
+    subcategory: ai-for-work
+
+    skill_ids:
+      - generative-ai
+      - ai-for-work
+
+    career_ids:
+      - ai-automation
+
+    learning_path_ids:
+      - ai-automation
+
+    level: advanced
+    duration: "1.5-3 hours"
+
+    format:
+      - online
+      - self-paced
+
+    certificate:
+      available: true
+      type: "Alison Certificate"
+
+    language:
+      - en
+      - es
+
+    status: active
+
+    source_url: "https://alison.com/course/generative-ai-for-businesses"
+
+    affiliate:
+      enabled: true
+      affiliate_url: "https://alison.com/course/generative-ai-for-businesses?utm_source=chatgpt.com&utm_source=alison_user&utm_medium=affiliate&utm_campaign=54834349"
+      cta: "Explore this course"
+      disclosure_required: true
+
+    featured: false
+
+    short_description: >
+      Explore how generative AI can support business operations,
+      marketing, sales and customer service.
+
+    best_for:
+      - business professionals
+      - managers
+      - entrepreneurs
+      - AI adopters
+
+    tags:
+      - generative AI
+      - business
+      - productivity
+      - marketing
+      - automation
+
+
+  # ==========================================================
+  # DATA ANALYTICS — ADDITIONAL COURSES
+  # ==========================================================
+
+  - id: SN-COURSE-023
+    provider: alison
+    title: "Introduction to Power BI"
+    slug: introduction-to-power-bi
+
+    category: data
+    subcategory: power-bi
+
+    skill_ids:
+      - data-analysis
+      - data-visualization
+      - power-bi
+
+    career_ids:
+      - data-analytics
+
+    learning_path_ids:
+      - data-analyst
+
+    level: beginner
+    duration: "3-4 hours"
+
+    format:
+      - online
+      - self-paced
+
+    certificate:
+      available: true
+      type: "Alison Certificate"
+
+    language:
+      - en
+      - es
+
+    status: active
+
+    source_url: "https://alison.com/course/introduction-to-power-bi"
+
+    affiliate:
+      enabled: true
+      affiliate_url: "https://alison.com/course/introduction-to-power-bi?utm_source=chatgpt.com&utm_source=alison_user&utm_medium=affiliate&utm_campaign=54834349"
+      cta: "Explore this course"
+      disclosure_required: true
+
+    featured: true
+
+    short_description: >
+      Learn how Power BI can be used to analyze data and create
+      visual reports for better decision-making.
+
+    best_for:
+      - data beginners
+      - aspiring data analysts
+      - business users
+
+    tags:
+      - Power BI
+      - data analysis
+      - data visualization
+      - dashboards
+
+
+  - id: SN-COURSE-024
+    provider: alison
+    title: "Introduction To Data Analytics Using Microsoft Power BI"
+    slug: introduction-to-data-analytics-using-microsoft-power-bi
+
+    category: data
+    subcategory: power-bi
+
+    skill_ids:
+      - data-analysis
+      - data-visualization
+      - power-bi
+
+    career_ids:
+      - data-analytics
+
+    learning_path_ids:
+      - data-analyst
+
+    level: beginner
+    duration: "1.5-3 hours"
+
+    format:
+      - online
+      - self-paced
+
+    certificate:
+      available: true
+      type: "Alison Certificate"
+
+    language:
+      - en
+      - es
+
+    status: active
+
+    source_url: "https://alison.com/course/introduction-to-data-analytics-using-microsoft-power-bi"
+
+    affiliate:
+      enabled: true
+      affiliate_url: "https://alison.com/course/introduction-to-data-analytics-using-microsoft-power-bi?utm_source=chatgpt.com&utm_source=alison_user&utm_medium=affiliate&utm_campaign=54834349"
+      cta: "Explore this course"
+      disclosure_required: true
+
+    featured: true
+
+    short_description: >
+      Learn how Power BI transforms data into interactive visual
+      reports and supports data-driven decision-making.
+
+    best_for:
+      - data beginners
+      - Power BI beginners
+      - aspiring analysts
+
+    tags:
+      - Power BI
+      - data analytics
+      - visualization
+      - reports
+
+
+  - id: SN-COURSE-025
+    provider: alison
+    title: "Master Microsoft Power BI"
+    slug: master-microsoft-power-bi
+
+    category: data
+    subcategory: power-bi
+
+    skill_ids:
+      - data-visualization
+      - power-bi
+      - data-analysis
+
+    career_ids:
+      - data-analytics
+
+    learning_path_ids:
+      - data-analyst
+
+    level: advanced
+    duration: "3-4 hours"
+
+    format:
+      - online
+      - self-paced
+
+    certificate:
+      available: true
+      type: "Alison Certificate"
+
+    language:
+      - en
+      - es
+
+    status: active
+
+    source_url: "https://alison.com/course/master-microsoft-power-bi"
+
+    affiliate:
+      enabled: true
+      affiliate_url: "https://alison.com/course/master-microsoft-power-bi?utm_source=chatgpt.com&utm_source=alison_user&utm_medium=affiliate&utm_campaign=54834349"
+      cta: "Explore this course"
+      disclosure_required: true
+
+    featured: false
+
+    short_description: >
+      Develop Power BI skills for data visualization, interactive
+      reports, dashboards, filters and business analysis.
+
+    best_for:
+      - data analysts
+      - Power BI users
+      - business intelligence learners
+
+    tags:
+      - Power BI
+      - dashboards
+      - data visualization
+      - business intelligence
+
+
+  - id: SN-COURSE-026
+    provider: alison
+    title: "Data Visualization with Python and Matplotlib"
+    slug: data-visualization-with-python-and-matplotlib
+
+    category: data
+    subcategory: data-visualization
+
+    skill_ids:
+      - data-visualization
+      - python
+      - data-analysis
+
+    career_ids:
+      - data-analytics
+
+    learning_path_ids:
+      - data-analyst
+
+    level: advanced
+    duration: "4-5 hours"
+
+    format:
+      - online
+      - self-paced
+
+    certificate:
+      available: true
+      type: "Alison Certificate"
+
+    language:
+      - en
+
+    status: active
+
+    source_url: "https://alison.com/course/data-visualization-with-python-and-matplotlib"
+
+    affiliate:
+      enabled: true
+      affiliate_url: "https://alison.com/course/data-visualization-with-python-and-matplotlib?utm_source=chatgpt.com&utm_source=alison_user&utm_medium=affiliate&utm_campaign=54834349"
+      cta: "Explore this course"
+      disclosure_required: true
+
+    featured: false
+
+    short_description: >
+      Learn how Python and Matplotlib can be used to create charts,
+      graphs and data visualizations.
+
+    best_for:
+      - data analysts
+      - Python learners
+      - visualization learners
+
+    tags:
+      - Python
+      - Matplotlib
+      - data visualization
+      - charts
+
+
+  - id: SN-COURSE-027
+    provider: alison
+    title: "Diploma in Python for Data Science"
+    slug: diploma-in-python-for-data-science
+
+    category: data
+    subcategory: python-data-science
+
+    skill_ids:
+      - python
+      - data-analysis
+      - data-visualization
+      - machine-learning
+
+    career_ids:
+      - data-analytics
+
+    learning_path_ids:
+      - data-analyst
+
+    level: advanced
+    duration: "6-10 hours"
+
+    format:
+      - online
+      - self-paced
+
+    certificate:
+      available: true
+      type: "Alison Diploma"
+
+    language:
+      - en
+
+    status: active
+
+    source_url: "https://alison.com/course/diploma-in-using-python-for-data-science"
+
+    affiliate:
+      enabled: true
+      affiliate_url: "https://alison.com/course/diploma-in-using-python-for-data-science?utm_source=chatgpt.com&utm_source=alison_user&utm_medium=affiliate&utm_campaign=54834349"
+      cta: "Explore this course"
+      disclosure_required: true
+
+    featured: true
+
+    short_description: >
+      Build Python skills for data science, including data analysis,
+      machine learning and data visualization.
+
+    best_for:
+      - aspiring data analysts
+      - Python learners
+      - data science beginners
+
+    tags:
+      - Python
+      - data science
+      - Pandas
+      - machine learning
+      - visualization
+
+
+  # ==========================================================
+  # SOFTWARE DEVELOPMENT — ADDITIONAL COURSES
+  # ==========================================================
+
+  - id: SN-COURSE-028
+    provider: alison
+    title: "Python for Beginners"
+    slug: python-for-beginners
+
+    category: programming
+    subcategory: python
+
+    skill_ids:
+      - programming-fundamentals
+      - python
+
+    career_ids:
+      - software-development
+
+    learning_path_ids:
+      - software-development
+
+    level: beginner
+    duration: "4-5 hours"
+
+    format:
+      - online
+      - self-paced
+
+    certificate:
+      available: true
+      type: "Alison Certificate"
+
+    language:
+      - en
+      - es
+
+    status: active
+
+    source_url: "https://alison.com/course/python-for-beginners"
+
+    affiliate:
+      enabled: true
+      affiliate_url: "https://alison.com/course/python-for-beginners?utm_source=chatgpt.com&utm_source=alison_user&utm_medium=affiliate&utm_campaign=54834349"
+      cta: "Explore this course"
+      disclosure_required: true
+
+    featured: true
+
+    short_description: >
+      Learn the basics of Python programming, including programming
+      principles, files, APIs, modules and practical applications.
+
+    best_for:
+      - programming beginners
+      - Python beginners
+      - aspiring developers
+
+    tags:
+      - Python
+      - programming
+      - coding
+      - APIs
+
+
+  - id: SN-COURSE-029
+    provider: alison
+    title: "Introduction to Python"
+    slug: introduction-to-python
+
+    category: programming
+    subcategory: python
+
+    skill_ids:
+      - programming-fundamentals
+      - python
+
+    career_ids:
+      - software-development
+
+    learning_path_ids:
+      - software-development
+
+    level: beginner
+    duration: "3-4 hours"
+
+    format:
+      - online
+      - self-paced
+
+    certificate:
+      available: true
+      type: "Alison Certificate"
+
+    language:
+      - en
+
+    status: active
+
+    source_url: "https://alison.com/course/introduction-to-python"
+
+    affiliate:
+      enabled: true
+      affiliate_url: "https://alison.com/course/introduction-to-python?utm_source=chatgpt.com&utm_source=alison_user&utm_medium=affiliate&utm_campaign=54834349"
+      cta: "Explore this course"
+      disclosure_required: true
+
+    featured: false
+
+    short_description: >
+      Learn Python syntax, data types, functions, logic and
+      fundamental programming concepts.
+
+    best_for:
+      - programming beginners
+      - Python learners
+      - aspiring developers
+
+    tags:
+      - Python
+      - programming
+      - functions
+      - coding
+
+
+  - id: SN-COURSE-030
+    provider: alison
+    title: "Building Generative AI Driven Apps with Python"
+    slug: building-generative-ai-driven-apps-with-python
+
+    category: programming
+    subcategory: ai-development
+
+    skill_ids:
+      - python
+      - generative-ai
+      - web-development
+
+    career_ids:
+      - software-development
+      - ai-automation
+
+    learning_path_ids:
+      - software-development
+      - ai-automation
+
+    level: advanced
+    duration: "4-5 hours"
+
+    format:
+      - online
+      - self-paced
+
+    certificate:
+      available: true
+      type: "Alison Certificate"
+
+    language:
+      - en
+
+    status: active
+
+    source_url: "https://alison.com/course/building-generative-ai-driven-apps-with-python"
+
+    affiliate:
+      enabled: true
+      affiliate_url: "https://alison.com/course/building-generative-ai-driven-apps-with-python?utm_source=chatgpt.com&utm_source=alison_user&utm_medium=affiliate&utm_campaign=54834349"
+      cta: "Explore this course"
+      disclosure_required: true
+
+    featured: true
+
+    short_description: >
+      Learn how Python can be combined with generative AI APIs
+      to build practical AI-powered applications.
+
+    best_for:
+      - Python developers
+      - AI developers
+      - advanced learners
+
+    tags:
+      - Python
+      - generative AI
+      - APIs
+      - Flask
+      - ChatGPT
