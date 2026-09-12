@@ -1,6 +1,0 @@
-.path-page { padding:3rem 0 5rem; }
-.path-steps { display:grid; gap:0; margin:2rem 0; }
-.path-step { display:grid; grid-template-columns:48px 1fr; gap:1rem; align-items:start; padding:1rem 0; position:relative; }
-.path-step:after { content:""; position:absolute; left:23px; top:55px; bottom:-5px; width:2px; background:$border; }
-.path-step:last-child:after{display:none;}
-.path-step__number { width:48px;height:48px;border-radius:50%;display:grid;place-items:center;background:$navy;color:$white;font-weight:900;position:relative;z-index:1; }
