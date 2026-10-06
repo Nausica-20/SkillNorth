@@ -1880,3 +1880,1263 @@ courses:
       - APIs
       - Flask
       - ChatGPT
+
+  # ==========================================================
+  # CYBERSECURITY — ADDITIONAL COURSES
+  # ==========================================================
+
+  - id: SN-COURSE-031
+    provider: alison
+    title: "Ethical Hacker"
+    slug: ethical-hacker
+
+    category: cybersecurity
+    subcategory: ethical-hacking
+
+    skill_ids:
+      - ethical-hacking
+      - cybersecurity-fundamentals
+
+    career_ids:
+      - cybersecurity
+
+    learning_path_ids:
+      - cybersecurity
+
+    level: beginner
+    duration: "5-6 hours"
+
+    format:
+      - online
+      - self-paced
+
+    certificate:
+      available: true
+      type: "Alison Certificate"
+
+    language:
+      - en
+
+    status: active
+
+    source_url: "https://alison.com/course/ethical-hacker"
+
+    affiliate:
+      enabled: true
+      affiliate_url: "https://alison.com/course/ethical-hacker?utm_source=chatgpt.com&utm_source=alison_user&utm_medium=affiliate&utm_campaign=54834349"
+      cta: "Explore this course"
+      disclosure_required: true
+
+    featured: true
+
+    short_description: >
+      Learn the fundamentals of ethical hacking, reconnaissance,
+      network security and common attack techniques.
+
+    best_for:
+      - cybersecurity beginners
+      - ethical hacking beginners
+      - aspiring security professionals
+
+    tags:
+      - ethical hacking
+      - penetration testing
+      - cybersecurity
+      - network security
+
+
+  - id: SN-COURSE-032
+    provider: alison
+    title: "Professional Ethical Hacking"
+    slug: professional-ethical-hacking
+
+    category: cybersecurity
+    subcategory: ethical-hacking
+
+    skill_ids:
+      - ethical-hacking
+      - network-security
+      - cybersecurity-fundamentals
+
+    career_ids:
+      - cybersecurity
+
+    learning_path_ids:
+      - cybersecurity
+
+    level: beginner
+    duration: "6-10 hours"
+
+    format:
+      - online
+      - self-paced
+
+    certificate:
+      available: true
+      type: "Alison Certificate"
+
+    language:
+      - en
+
+    status: active
+
+    source_url: "https://alison.com/course/professional-ethical-hacking"
+
+    affiliate:
+      enabled: true
+      affiliate_url: "https://alison.com/course/professional-ethical-hacking?utm_source=chatgpt.com&utm_source=alison_user&utm_medium=affiliate&utm_campaign=54834349"
+      cta: "Explore this course"
+      disclosure_required: true
+
+    featured: true
+
+    short_description: >
+      Explore ethical hacking methods, penetration testing,
+      information gathering and common web application vulnerabilities.
+
+    best_for:
+      - cybersecurity learners
+      - ethical hacking beginners
+      - aspiring penetration testers
+
+    tags:
+      - ethical hacking
+      - penetration testing
+      - OWASP
+      - network security
+
+
+  - id: SN-COURSE-033
+    provider: alison
+    title: "Diploma in Ethical Hacking"
+    slug: diploma-in-ethical-hacking
+
+    category: cybersecurity
+    subcategory: ethical-hacking
+
+    skill_ids:
+      - ethical-hacking
+      - network-security
+      - cybersecurity-fundamentals
+
+    career_ids:
+      - cybersecurity
+
+    learning_path_ids:
+      - cybersecurity
+
+    level: advanced
+    duration: "10-15 hours"
+
+    format:
+      - online
+      - self-paced
+
+    certificate:
+      available: true
+      type: "Alison Diploma"
+
+    language:
+      - en
+      - es
+
+    status: active
+
+    source_url: "https://alison.com/course/diploma-in-ethical-hacking"
+
+    affiliate:
+      enabled: true
+      affiliate_url: "https://alison.com/course/diploma-in-ethical-hacking?utm_source=chatgpt.com&utm_source=alison_user&utm_medium=affiliate&utm_campaign=54834349"
+      cta: "Explore this course"
+      disclosure_required: true
+
+    featured: true
+
+    short_description: >
+      Develop a broader ethical hacking foundation covering network
+      vulnerabilities, penetration testing and security concepts.
+
+    best_for:
+      - cybersecurity learners
+      - ethical hacking learners
+      - aspiring security professionals
+
+    tags:
+      - ethical hacking
+      - penetration testing
+      - network security
+      - vulnerabilities
+
+
+  - id: SN-COURSE-034
+    provider: alison
+    title: "Computer Networking - Digital Network Security"
+    slug: computer-networking-digital-network-security
+
+    category: cybersecurity
+    subcategory: network-security
+
+    skill_ids:
+      - network-security
+      - cybersecurity-fundamentals
+
+    career_ids:
+      - cybersecurity
+
+    learning_path_ids:
+      - cybersecurity
+
+    level: beginner
+    duration: "1.5-3 hours"
+
+    format:
+      - online
+      - self-paced
+
+    certificate:
+      available: true
+      type: "Alison Certificate"
+
+    language:
+      - en
+      - es
+
+    status: active
+
+    source_url: "https://alison.com/course/computer-networking-digital-network-security-revised"
+
+    affiliate:
+      enabled: true
+      affiliate_url: "https://alison.com/course/computer-networking-digital-network-security-revised?utm_source=chatgpt.com&utm_source=alison_user&utm_medium=affiliate&utm_campaign=54834349"
+      cta: "Explore this course"
+      disclosure_required: true
+
+    featured: true
+
+    short_description: >
+      Learn networking architecture, protocols, firewalls, VPNs
+      and digital network security.
+
+    best_for:
+      - cybersecurity beginners
+      - networking beginners
+      - IT learners
+
+    tags:
+      - networking
+      - network security
+      - firewalls
+      - VPN
+      - cybersecurity
+
+
+  - id: SN-COURSE-035
+    provider: alison
+    title: "Ethical Hacking; Network Analysis and Vulnerability Scanning"
+    slug: ethical-hacking-network-analysis-vulnerability-scanning
+
+    category: cybersecurity
+    subcategory: vulnerability-assessment
+
+    skill_ids:
+      - ethical-hacking
+      - network-security
+      - cybersecurity-fundamentals
+
+    career_ids:
+      - cybersecurity
+
+    learning_path_ids:
+      - cybersecurity
+
+    level: advanced
+    duration: "10-15 hours"
+
+    format:
+      - online
+      - self-paced
+
+    certificate:
+      available: true
+      type: "Alison Certificate"
+
+    language:
+      - en
+
+    status: active
+
+    source_url: "https://alison.com/course/ethical-hacking-network-analysis-and-vulnerability-scanning"
+
+    affiliate:
+      enabled: true
+      affiliate_url: "https://alison.com/course/ethical-hacking-network-analysis-and-vulnerability-scanning?utm_source=chatgpt.com&utm_source=alison_user&utm_medium=affiliate&utm_campaign=54834349"
+      cta: "Explore this course"
+      disclosure_required: true
+
+    featured: false
+
+    short_description: >
+      Explore network analysis, vulnerability scanning, penetration
+      testing concepts and Nmap.
+
+    best_for:
+      - cybersecurity learners
+      - ethical hacking learners
+      - security testing beginners
+
+    tags:
+      - ethical hacking
+      - Nmap
+      - vulnerability scanning
+      - penetration testing
+
+
+  - id: SN-COURSE-036
+    provider: alison
+    title: "Ethical Hacking; Information Security"
+    slug: ethical-hacking-information-security
+
+    category: cybersecurity
+    subcategory: information-security
+
+    skill_ids:
+      - cybersecurity-fundamentals
+      - ethical-hacking
+
+    career_ids:
+      - cybersecurity
+
+    learning_path_ids:
+      - cybersecurity
+
+    level: advanced
+    duration: "1.5-3 hours"
+
+    format:
+      - online
+      - self-paced
+
+    certificate:
+      available: true
+      type: "Alison Certificate"
+
+    language:
+      - en
+
+    status: active
+
+    source_url: "https://alison.com/course/ethical-hacking-information-security"
+
+    affiliate:
+      enabled: true
+      affiliate_url: "https://alison.com/course/ethical-hacking-information-security?utm_source=chatgpt.com&utm_source=alison_user&utm_medium=affiliate&utm_campaign=54834349"
+      cta: "Explore this course"
+      disclosure_required: true
+
+    featured: false
+
+    short_description: >
+      Explore information security, cryptography and cryptographic
+      hash functions.
+
+    best_for:
+      - cybersecurity learners
+      - information security learners
+      - ethical hacking students
+
+    tags:
+      - information security
+      - cryptography
+      - hashing
+      - ethical hacking
+
+
+  # ==========================================================
+  # SOFTWARE DEVELOPMENT — ADDITIONAL COURSES
+  # ==========================================================
+
+  - id: SN-COURSE-037
+    provider: alison
+    title: "Introduction to HTML and CSS"
+    slug: introduction-to-html-and-css
+
+    category: programming
+    subcategory: web-development
+
+    skill_ids:
+      - html
+      - css
+      - web-development
+      - programming-fundamentals
+
+    career_ids:
+      - software-development
+
+    learning_path_ids:
+      - software-development
+
+    level: beginner
+    duration: "1.5-3 hours"
+
+    format:
+      - online
+      - self-paced
+
+    certificate:
+      available: true
+      type: "Alison Certificate"
+
+    language:
+      - en
+
+    status: active
+
+    source_url: "https://alison.com/course/introduction-to-html-and-css"
+
+    affiliate:
+      enabled: true
+      affiliate_url: "https://alison.com/course/introduction-to-html-and-css?utm_source=chatgpt.com&utm_source=alison_user&utm_medium=affiliate&utm_campaign=54834349"
+      cta: "Explore this course"
+      disclosure_required: true
+
+    featured: true
+
+    short_description: >
+      Learn the foundations of web development through HTML,
+      CSS, tags, styling and the CSS box model.
+
+    best_for:
+      - web development beginners
+      - programming beginners
+      - aspiring web designers
+
+    tags:
+      - HTML
+      - CSS
+      - web development
+      - web design
+
+
+  - id: SN-COURSE-038
+    provider: alison
+    title: "Web Development with HTML and CSS for Beginners"
+    slug: web-development-html-css-beginners
+
+    category: programming
+    subcategory: web-development
+
+    skill_ids:
+      - html
+      - css
+      - web-development
+
+    career_ids:
+      - software-development
+
+    learning_path_ids:
+      - software-development
+
+    level: beginner
+    duration: "4-5 hours"
+
+    format:
+      - online
+      - self-paced
+
+    certificate:
+      available: true
+      type: "Alison Certificate"
+
+    language:
+      - en
+
+    status: active
+
+    source_url: "https://alison.com/course/web-development-with-html-and-css-for-beginners"
+
+    affiliate:
+      enabled: true
+      affiliate_url: "https://alison.com/course/web-development-with-html-and-css-for-beginners?utm_source=chatgpt.com&utm_source=alison_user&utm_medium=affiliate&utm_campaign=54834349"
+      cta: "Explore this course"
+      disclosure_required: true
+
+    featured: true
+
+    short_description: >
+      Build a practical foundation in HTML and CSS and learn
+      the core concepts behind website development.
+
+    best_for:
+      - web development beginners
+      - aspiring front-end developers
+      - programming beginners
+
+    tags:
+      - HTML
+      - CSS
+      - web development
+      - front-end
+
+
+  - id: SN-COURSE-039
+    provider: alison
+    title: "Introduction to JavaScript DOM Page Elements"
+    slug: introduction-to-javascript-dom-page-elements
+
+    category: programming
+    subcategory: javascript
+
+    skill_ids:
+      - javascript
+      - web-development
+      - dom
+
+    career_ids:
+      - software-development
+
+    learning_path_ids:
+      - software-development
+
+    level: beginner
+    duration: "1.5-3 hours"
+
+    format:
+      - online
+      - self-paced
+
+    certificate:
+      available: true
+      type: "Alison Certificate"
+
+    language:
+      - en
+
+    status: active
+
+    source_url: "https://alison.com/course/introduction-to-javascript-dom-page-elements"
+
+    affiliate:
+      enabled: true
+      affiliate_url: "https://alison.com/course/introduction-to-javascript-dom-page-elements?utm_source=chatgpt.com&utm_source=alison_user&utm_medium=affiliate&utm_campaign=54834349"
+      cta: "Explore this course"
+      disclosure_required: true
+
+    featured: false
+
+    short_description: >
+      Learn how JavaScript interacts with HTML through the DOM,
+      selectors, elements and event listeners.
+
+    best_for:
+      - JavaScript beginners
+      - web development learners
+      - front-end learners
+
+    tags:
+      - JavaScript
+      - DOM
+      - web development
+      - HTML
+
+
+  - id: SN-COURSE-040
+    provider: alison
+    title: "CSS and JavaScript - Creating a Single Page Flexbox Website"
+    slug: css-javascript-single-page-flexbox-website
+
+    category: programming
+    subcategory: web-development
+
+    skill_ids:
+      - css
+      - javascript
+      - html
+      - web-development
+
+    career_ids:
+      - software-development
+
+    learning_path_ids:
+      - software-development
+
+    level: beginner
+    duration: "1.5-3 hours"
+
+    format:
+      - online
+      - self-paced
+
+    certificate:
+      available: true
+      type: "Alison Certificate"
+
+    language:
+      - en
+
+    status: active
+
+    source_url: "https://alison.com/course/css-and-javascript-creating-a-single-page-flexbox-website"
+
+    affiliate:
+      enabled: true
+      affiliate_url: "https://alison.com/course/css-and-javascript-creating-a-single-page-flexbox-website?utm_source=chatgpt.com&utm_source=alison_user&utm_medium=affiliate&utm_campaign=54834349"
+      cta: "Explore this course"
+      disclosure_required: true
+
+    featured: true
+
+    short_description: >
+      Build a responsive single-page website using HTML, CSS
+      Flexbox and JavaScript.
+
+    best_for:
+      - front-end beginners
+      - web developers
+      - project-based learners
+
+    tags:
+      - CSS Flexbox
+      - JavaScript
+      - HTML
+      - responsive design
+
+
+  - id: SN-COURSE-041
+    provider: alison
+    title: "C Programming - Introduction"
+    slug: c-programming-introduction
+
+    category: programming
+    subcategory: programming-fundamentals
+
+    skill_ids:
+      - programming-fundamentals
+      - c-programming
+
+    career_ids:
+      - software-development
+
+    learning_path_ids:
+      - software-development
+
+    level: beginner
+    duration: "2-3 hours"
+
+    format:
+      - online
+      - self-paced
+
+    certificate:
+      available: true
+      type: "Alison Certificate"
+
+    language:
+      - en
+
+    status: active
+
+    source_url: "https://alison.com/course/c-programming-introduction"
+
+    affiliate:
+      enabled: true
+      affiliate_url: "https://alison.com/course/c-programming-introduction?utm_source=chatgpt.com&utm_source=alison_user&utm_medium=affiliate&utm_campaign=54834349"
+      cta: "Explore this course"
+      disclosure_required: true
+
+    featured: false
+
+    short_description: >
+      Learn programming fundamentals and the basic concepts
+      behind the C programming language.
+
+    best_for:
+      - programming beginners
+      - computer science learners
+      - aspiring developers
+
+    tags:
+      - C
+      - programming
+      - coding
+      - computer science
+
+
+  - id: SN-COURSE-042
+    provider: alison
+    title: "Introduction to C++ Programming Language"
+    slug: introduction-to-c-plus-plus-programming
+
+    category: programming
+    subcategory: programming-fundamentals
+
+    skill_ids:
+      - programming-fundamentals
+      - cpp
+
+    career_ids:
+      - software-development
+
+    learning_path_ids:
+      - software-development
+
+    level: intermediate
+    duration: "2-3 hours"
+
+    format:
+      - online
+      - self-paced
+
+    certificate:
+      available: true
+      type: "Alison Certificate"
+
+    language:
+      - en
+
+    status: active
+
+    source_url: "https://alison.com/course/introduction-to-c-plus-plus-programming-language"
+
+    affiliate:
+      enabled: true
+      affiliate_url: "https://alison.com/course/introduction-to-c-plus-plus-programming-language?utm_source=chatgpt.com&utm_source=alison_user&utm_medium=affiliate&utm_campaign=54834349"
+      cta: "Explore this course"
+      disclosure_required: true
+
+    featured: false
+
+    short_description: >
+      Learn the foundations of C++ programming, including
+      variables, types and the basic compilation process.
+
+    best_for:
+      - programming learners
+      - computer science students
+      - aspiring developers
+
+    tags:
+      - C++
+      - programming
+      - coding
+      - computer science
+
+- id: SN-COURSE-043
+  provider: alison
+  title: "Introduction to UI/UX Design"
+  slug: "introduction-to-ui-ux-design"
+  category: "UX/UI Design"
+  subcategory: "UI/UX"
+  skill_ids:
+    - ux-ui-design
+  career_ids:
+    - ux-ui-designer
+  learning_path_ids:
+    - ux-ui-design
+  level: "beginner"
+  duration: "3–4 hours"
+  format:
+    - online
+    - self-paced
+  certificate:
+    available: true
+    type: "Alison Certificate"
+  language:
+    - en
+  status: active
+  source_url: "https://alison.com/course/introduction-to-ui-ux-design"
+  affiliate:
+    enabled: true
+    affiliate_url: "https://alison.com/course/introduction-to-ui-ux-design?utm_source=chatgpt.com&utm_source=alison_user&utm_medium=affiliate&utm_campaign=54834349"
+    cta: "Explore this course"
+    disclosure_required: true
+  featured: false
+  short_description: >
+    Learn the fundamentals of UI and UX design and understand how digital
+    products are designed around user needs and experiences.
+  best_for:
+    - beginners interested in UI/UX
+    - aspiring UX/UI designers
+    - people exploring digital careers
+  tags:
+    - ui design
+    - ux design
+    - user experience
+    - digital design
+
+- id: SN-COURSE-044
+  provider: alison
+  title: "Graphic Design"
+  slug: "graphic-design"
+  category: "Design"
+  subcategory: "Graphic Design"
+  skill_ids:
+    - graphic-design
+  career_ids:
+    - graphic-designer
+  learning_path_ids:
+    - graphic-design
+  level: "beginner"
+  duration: "1.5–3 hours"
+  format:
+    - online
+    - self-paced
+  certificate:
+    available: true
+    type: "Alison Certificate"
+  language:
+    - en
+  status: active
+  source_url: "https://alison.com/course/graphic-design"
+  affiliate:
+    enabled: true
+    affiliate_url: "https://alison.com/course/graphic-design?utm_source=chatgpt.com&utm_source=alison_user&utm_medium=affiliate&utm_campaign=54834349"
+    cta: "Explore this course"
+    disclosure_required: true
+  featured: false
+  short_description: >
+    Explore the fundamentals of graphic design and develop an understanding
+    of visual communication and design principles.
+  best_for:
+    - beginners in graphic design
+    - aspiring graphic designers
+    - content creators
+  tags:
+    - graphic design
+    - visual design
+    - creativity
+    - design fundamentals
+
+- id: SN-COURSE-045
+  provider: alison
+  title: "Digital Marketing Overview"
+  slug: "digital-marketing-overview"
+  category: "Digital Marketing"
+  subcategory: "Digital Marketing Fundamentals"
+  skill_ids:
+    - digital-marketing
+  career_ids:
+    - digital-marketing-specialist
+  learning_path_ids:
+    - digital-marketing
+  level: "beginner"
+  duration: "4–5 hours"
+  format:
+    - online
+    - self-paced
+  certificate:
+    available: true
+    type: "Alison Certificate"
+  language:
+    - en
+  status: active
+  source_url: "https://alison.com/course/digital-marketing-overview"
+  affiliate:
+    enabled: true
+    affiliate_url: "https://alison.com/course/digital-marketing-overview?utm_source=chatgpt.com&utm_source=alison_user&utm_medium=affiliate&utm_campaign=54834349"
+    cta: "Explore this course"
+    disclosure_required: true
+  featured: false
+  short_description: >
+    Build an understanding of digital marketing concepts, channels,
+    strategies and online customer engagement.
+  best_for:
+    - digital marketing beginners
+    - aspiring marketers
+    - small business owners
+  tags:
+    - digital marketing
+    - online marketing
+    - marketing strategy
+    - digital skills
+
+- id: SN-COURSE-046
+  provider: alison
+  title: "Basics of Social Media Marketing"
+  slug: "basics-of-social-media-marketing"
+  category: "Digital Marketing"
+  subcategory: "Social Media Marketing"
+  skill_ids:
+    - digital-marketing
+    - social-media-marketing
+  career_ids:
+    - digital-marketing-specialist
+  learning_path_ids:
+    - digital-marketing
+  level: "beginner"
+  duration: ""
+  format:
+    - online
+    - self-paced
+  certificate:
+    available: true
+    type: "Alison Certificate"
+  language:
+    - en
+  status: active
+  source_url: "https://alison.com/course/basics-of-social-media-marketing"
+  affiliate:
+    enabled: true
+    affiliate_url: "https://alison.com/course/basics-of-social-media-marketing?utm_source=chatgpt.com&utm_source=alison_user&utm_medium=affiliate&utm_campaign=54834349"
+    cta: "Explore this course"
+    disclosure_required: true
+  featured: false
+  short_description: >
+    Learn the fundamentals of social media marketing and how businesses
+    can use social platforms to reach and engage audiences.
+  best_for:
+    - social media beginners
+    - aspiring digital marketers
+    - small business owners
+  tags:
+    - social media
+    - social media marketing
+    - digital marketing
+    - content marketing
+
+- id: SN-COURSE-047
+  provider: alison
+  title: "Project Management - Foundation"
+  slug: "project-management-foundation"
+  category: "Project Management"
+  subcategory: "Project Management Fundamentals"
+  skill_ids:
+    - project-management
+  career_ids:
+    - project-manager
+  learning_path_ids:
+    - project-management
+  level: "beginner"
+  duration: "1.5–3 hours"
+  format:
+    - online
+    - self-paced
+  certificate:
+    available: true
+    type: "Alison Certificate"
+  language:
+    - en
+  status: active
+  source_url: "https://alison.com/course/project-management-foundation"
+  affiliate:
+    enabled: true
+    affiliate_url: "https://alison.com/course/project-management-foundation?utm_source=chatgpt.com&utm_source=alison_user&utm_medium=affiliate&utm_campaign=54834349"
+    cta: "Explore this course"
+    disclosure_required: true
+  featured: false
+  short_description: >
+    Learn the foundations of project management, including core concepts,
+    planning and managing projects effectively.
+  best_for:
+    - project management beginners
+    - aspiring project managers
+    - professionals developing management skills
+  tags:
+    - project management
+    - project planning
+    - management
+    - business skills
+
+- id: SN-COURSE-048
+  provider: alison
+  title: "Project Management: The Basics"
+  slug: "project-management-the-basics"
+  category: "Project Management"
+  subcategory: "Project Management Fundamentals"
+  skill_ids:
+    - project-management
+  career_ids:
+    - project-manager
+  learning_path_ids:
+    - project-management
+  level: "beginner"
+  duration: ""
+  format:
+    - online
+    - self-paced
+  certificate:
+    available: true
+    type: "Alison Certificate"
+  language:
+    - en
+  status: active
+  source_url: "https://alison.com/course/project-management-the-basics"
+  affiliate:
+    enabled: true
+    affiliate_url: "https://alison.com/course/project-management-the-basics?utm_source=chatgpt.com&utm_source=alison_user&utm_medium=affiliate&utm_campaign=54834349"
+    cta: "Explore this course"
+    disclosure_required: true
+  featured: false
+  short_description: >
+    Develop a practical introduction to project management concepts,
+    processes and techniques.
+  best_for:
+    - project management beginners
+    - team members
+    - professionals moving into project work
+  tags:
+    - project management
+    - project planning
+    - teamwork
+    - management
+
+- id: SN-COURSE-049
+  provider: alison
+  title: "Business Analysis - Foundation"
+  slug: "business-analysis-foundation"
+  category: "Business Analysis"
+  subcategory: "Business Analysis Fundamentals"
+  skill_ids:
+    - business-analysis
+  career_ids:
+    - business-analyst
+  learning_path_ids:
+    - business-analysis
+  level: "beginner"
+  duration: ""
+  format:
+    - online
+    - self-paced
+  certificate:
+    available: true
+    type: "Alison Certificate"
+  language:
+    - en
+  status: active
+  source_url: "https://alison.com/course/business-analysis-foundation"
+  affiliate:
+    enabled: true
+    affiliate_url: "https://alison.com/course/business-analysis-foundation?utm_source=chatgpt.com&utm_source=alison_user&utm_medium=affiliate&utm_campaign=54834349"
+    cta: "Explore this course"
+    disclosure_required: true
+  featured: false
+  short_description: >
+    Learn the foundations of business analysis and how analytical thinking
+    can support better business decisions.
+  best_for:
+    - business analysis beginners
+    - aspiring business analysts
+    - professionals developing analytical skills
+  tags:
+    - business analysis
+    - requirements analysis
+    - analytical thinking
+    - business skills
+
+- id: SN-COURSE-050
+  provider: alison
+  title: "Business Analysis Fundamentals"
+  slug: "business-analysis-fundamentals"
+  category: "Business Analysis"
+  subcategory: "Business Analysis Fundamentals"
+  skill_ids:
+    - business-analysis
+  career_ids:
+    - business-analyst
+  learning_path_ids:
+    - business-analysis
+  level: "beginner"
+  duration: ""
+  format:
+    - online
+    - self-paced
+  certificate:
+    available: true
+    type: "Alison Certificate"
+  language:
+    - en
+  status: active
+  source_url: "https://alison.com/course/business-analysis-fundamentals"
+  affiliate:
+    enabled: true
+    affiliate_url: "https://alison.com/course/business-analysis-fundamentals?utm_source=chatgpt.com&utm_source=alison_user&utm_medium=affiliate&utm_campaign=54834349"
+    cta: "Explore this course"
+    disclosure_required: true
+  featured: false
+  short_description: >
+    Build foundational business analysis knowledge and learn how analysts
+    identify business needs and support solutions.
+  best_for:
+    - aspiring business analysts
+    - business professionals
+    - analytical thinkers
+  tags:
+    - business analysis
+    - business requirements
+    - problem solving
+    - analysis
+
+- id: SN-COURSE-051
+  provider: alison
+  title: "Basics of Finance and Accounting"
+  slug: "basics-of-finance-and-accounting"
+  category: "Finance & Accounting"
+  subcategory: "Finance Fundamentals"
+  skill_ids:
+    - finance
+    - accounting
+  career_ids:
+    - accounting-finance-specialist
+  learning_path_ids:
+    - finance-and-accounting
+  level: "beginner"
+  duration: "1.5–3 hours"
+  format:
+    - online
+    - self-paced
+  certificate:
+    available: true
+    type: "Alison Certificate"
+  language:
+    - en
+  status: active
+  source_url: "https://alison.com/course/basics-of-finance-and-accounting"
+  affiliate:
+    enabled: true
+    affiliate_url: "https://alison.com/course/basics-of-finance-and-accounting?utm_source=chatgpt.com&utm_source=alison_user&utm_medium=affiliate&utm_campaign=54834349"
+    cta: "Explore this course"
+    disclosure_required: true
+  featured: false
+  short_description: >
+    Learn the basic principles of finance and accounting and develop
+    practical financial literacy for business and professional settings.
+  best_for:
+    - finance beginners
+    - aspiring accounting professionals
+    - business learners
+  tags:
+    - finance
+    - accounting
+    - financial literacy
+    - business
+
+- id: SN-COURSE-052
+  provider: alison
+  title: "Human Resources Diploma"
+  slug: "human-resources-diploma"
+  category: "Human Resources"
+  subcategory: "HR Management"
+  skill_ids:
+    - human-resources
+  career_ids:
+    - hr-specialist
+  learning_path_ids:
+    - human-resources
+  level: "beginner"
+  duration: ""
+  format:
+    - online
+    - self-paced
+  certificate:
+    available: true
+    type: "Alison Diploma"
+  language:
+    - en
+  status: active
+  source_url: "https://alison.com/course/human-resources-diploma"
+  affiliate:
+    enabled: true
+    affiliate_url: "https://alison.com/course/human-resources-diploma?utm_source=chatgpt.com&utm_source=alison_user&utm_medium=affiliate&utm_campaign=54834349"
+    cta: "Explore this course"
+    disclosure_required: true
+  featured: false
+  short_description: >
+    Develop foundational knowledge of human resources management,
+    recruitment, employee relations and workplace practices.
+  best_for:
+    - aspiring HR professionals
+    - HR beginners
+    - managers working with teams
+  tags:
+    - human resources
+    - hr
+    - recruitment
+    - employee management
+
+- id: SN-COURSE-053
+  provider: alison
+  title: "Customer Service Skills"
+  slug: "customer-service-skills"
+  category: "Customer Service"
+  subcategory: "Customer Support"
+  skill_ids:
+    - customer-service
+  career_ids:
+    - customer-service-specialist
+  learning_path_ids:
+    - customer-service
+  level: "beginner"
+  duration: ""
+  format:
+    - online
+    - self-paced
+  certificate:
+    available: true
+    type: "Alison Certificate"
+  language:
+    - en
+  status: active
+  source_url: "https://alison.com/course/customer-service-skills"
+  affiliate:
+    enabled: true
+    affiliate_url: "https://alison.com/course/customer-service-skills?utm_source=chatgpt.com&utm_source=alison_user&utm_medium=affiliate&utm_campaign=54834349"
+    cta: "Explore this course"
+    disclosure_required: true
+  featured: false
+  short_description: >
+    Develop practical customer service skills for communicating with
+    customers, solving problems and delivering better service experiences.
+  best_for:
+    - customer service beginners
+    - support professionals
+    - people developing communication skills
+  tags:
+    - customer service
+    - customer support
+    - communication
+    - problem solving
+
+- id: SN-COURSE-054
+  provider: alison
+  title: "Project Management for HR Professionals"
+  slug: "project-management-for-hr-professionals"
+  category: "Project Management / HR"
+  subcategory: "HR Project Management"
+  skill_ids:
+    - project-management
+    - human-resources
+  career_ids:
+    - hr-specialist
+    - project-manager
+  learning_path_ids:
+    - human-resources
+    - project-management
+  level: "beginner"
+  duration: ""
+  format:
+    - online
+    - self-paced
+  certificate:
+    available: true
+    type: "Alison Certificate"
+  language:
+    - en
+  status: active
+  source_url: "https://alison.com/course/project-management-for-hr-professionals"
+  affiliate:
+    enabled: true
+    affiliate_url: "https://alison.com/course/project-management-for-hr-professionals?utm_source=chatgpt.com&utm_source=alison_user&utm_medium=affiliate&utm_campaign=54834349"
+    cta: "Explore this course"
+    disclosure_required: true
+  featured: false
+  short_description: >
+    Learn how project management principles can be applied to HR projects,
+    initiatives and workplace processes.
+  best_for:
+    - HR professionals
+    - HR managers
+    - professionals managing HR projects
+  tags:
+    - project management
+    - human resources
+    - hr
+    - management
